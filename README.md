@@ -20,6 +20,6 @@ Ce projet vise à créer une ardoise de dessin en pixel art. Initialement, une g
 2. **Interaction avec les Pixels :** Cliquez sur un pixel pour alterner sa couleur entre noir et gris.
 3. **Formulaire de Configuration :** Utilisez le formulaire pour spécifier une nouvelle taille de grille, puis soumettez-le pour afficher la grille redimensionnée.
 
-## Contributeurs
+## Contributeur
 
 Alexandre Klein a développé ce projet.
