@@ -1,6 +1,6 @@
 # Draw-Art
 
-Invader est une application JavaScript conçue pour créer une ardoise de dessin en pixel art.
+Draw-Art est une application JavaScript conçue pour créer une ardoise de dessin en pixel art.
 
 ![Aperçu de Draw Art](readme.png)
 
