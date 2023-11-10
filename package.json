@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "name": "draw-art",
+  "description": "Draw-Art est une application JavaScript conçue pour créer une ardoise de dessin en pixel art.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
